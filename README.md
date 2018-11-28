@@ -29,7 +29,6 @@ A test repo for use in teaching people about RStudio projects
    * this may break if git not installed and ssh keys not set (be prepared for delays while people get that sorted) 
 
 ## 2 hour version
-(The 1 hour version might take 2 hours!)
 
  * Run 1 hour version
  * create a repo on github and create a new RStudio package from it
