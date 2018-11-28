@@ -4,7 +4,10 @@ A test repo for use in teaching people about RStudio projects
 ## 1 hour version
  * create a project in RStudio - just as in https://r4ds.had.co.nz/workflow-projects.html
    * learn about options
-   * learn about where to put stuff (folders)
+   * learn about where to put stuff (folders: 
+     - R
+     - dataProcessing
+     - dataAnalysis
  * create a project in RStudio with git option
    * learn what git adds (version control via commits, additional commenting)
    * learn why NOT to keep your data in your RStudio project
