@@ -23,6 +23,7 @@ A test repo for use in teaching people about RStudio projects
  * create a repo on github and create a new RStudio project from it
    * learn about READMEs
    * learn about licenses (digression on private repos/projects)
+   * learn about gitignore
    * learn about commits, pull, push, history -> cloud code and collaboration (issues etc)
    * reminder of why NOT to keep your data in your RStudio project
    * this may break if git not installed and ssh keys not set (be prepared for delays while people get that sorted) 
