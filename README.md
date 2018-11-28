@@ -9,6 +9,12 @@ A test repo for use in teaching people about RStudio projects
    * learn what git adds (version control via commits, additional commenting)
    * learn why NOT to keep your data in your RStudio project
    * this may break if git not installed
+ * STOP: where do you keep your code and what happens if there's an "accident"?
+   * Your own backups?
+   * Otago HCS? - actually best for data
+   * Otago Syncplicity? - not clear what this is best for :-)
+   * Dropbox? you might _not_ want to do this for several reasons
+   * What else?
  * create a repo on github and create a new RStudio project from it
    * learn about READMEs
    * learn about licenses (digression on private repos/projects)
