@@ -9,6 +9,7 @@ A test repo for use in teaching people about RStudio projects
      - dataProcessing
      - dataAnalysis
      - data (?)
+ * STOP: what happens if you over-write some code?
  * create a project in RStudio with git option
    * learn what git adds (version control via commits, additional commenting)
    * learn why NOT to keep your data in your RStudio project
