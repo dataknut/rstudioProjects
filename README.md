@@ -11,8 +11,8 @@ A test repo for use in teaching people about RStudio projects
    * this may break if git not installed
  * STOP: where do you keep your code and what happens if there's an "accident"?
    * Your own backups?
-   * Otago HCS? - actually best for data
-   * Otago Syncplicity? - not clear what this is best for :-)
+   * Otago [HCS](https://www.otago.ac.nz/its/services/hosting/otago068353.html)? - actually best for data
+   * Otago [Syncplicity](https://its-faq.otago.ac.nz/index.php?action=show&cat=394)? - not clear what this is best for :-)
    * Dropbox? you might _not_ want to do this for several reasons
    * What else?
  * create a repo on github and create a new RStudio project from it
